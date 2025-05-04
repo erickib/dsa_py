@@ -1,9 +1,6 @@
 ## Data Structure And Algotihms
 ### An algorithms study using Python language.
 
-To run you must have a browser.
-In your browser open or drag the file to the window:
-index.html
+There is no main point to run
 
-Select an algorithm and it will get loaded on an iframe<br />
-Insert a target value and hit the button
+Each file has it's own implementation, with clear documentation.
